@@ -1,8 +1,8 @@
 # TODO_List
-To-do list simples, que permite:
-- adicionar uma tarefa
-- deletar uma tarefa
-- alterar o status da tarefa
+Simple to-do list, which can:
+- add a task
+- delete a task
+- change a tast status
 
-Este projeto tem foco no tratamento de quaisquer erros causados pelo usuário.
-Desenvolvido utilizando Java 8.
+With focus on handling all possible user errors
+Developed using Java 8
